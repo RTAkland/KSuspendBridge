@@ -8,5 +8,5 @@ repositories {
 }
 
 dependencies {
-//    implementation(project(":ksuspend-annotations"))
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1")
 }
