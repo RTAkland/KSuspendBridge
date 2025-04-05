@@ -15,3 +15,5 @@ val FqName.callableId get() =
 
 val FqName.classId get() =
     ClassId.topLevel(this)
+
+val String.fQName get() = FqName(this)

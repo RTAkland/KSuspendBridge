@@ -9,4 +9,5 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1")
+    implementation("cn.rtast.ksuspend.bridge:ksuspend-runtime:0.0.1")
 }
