@@ -11,3 +11,7 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1")
     implementation("cn.rtast.ksuspend.bridge:ksuspend-runtime:0.0.1")
 }
+
+tasks.compileKotlin {
+    compilerOptions.freeCompilerArgs.addAll("-Xdump-directory=${project.layout.buildDirectory}/ir", "-Xphases-to-dump=ALL")
+}

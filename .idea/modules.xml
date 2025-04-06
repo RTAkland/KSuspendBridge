@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ksuspend-compiler-plugin/KSuspendBridge.ksuspend-compiler-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ksuspend-compiler-plugin/KSuspendBridge.ksuspend-compiler-plugin.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ksuspend-gradle-plugin/KSuspendBridge.ksuspend-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ksuspend-gradle-plugin/KSuspendBridge.ksuspend-gradle-plugin.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ksuspend-runtime/KSuspendBridge.ksuspend-runtime.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ksuspend-runtime/KSuspendBridge.ksuspend-runtime.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ksuspend-test-plugin/KSuspendBridge.ksuspend-test-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ksuspend-test-plugin/KSuspendBridge.ksuspend-test-plugin.main.iml" />
     </modules>
   </component>
